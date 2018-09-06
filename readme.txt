@@ -1,4 +1,4 @@
-add merge on dev2
+add merge,this is dev branch.
 git is a distributed version control system.
 git is free software distributed under the GPL.
 git has a mutable index called stage.
